@@ -1,0 +1,14 @@
+# Environments
+venv/
+.env
+
+# MacOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+
+# Project specific files
+temp_frame.jpg
+yolov10n.pt
